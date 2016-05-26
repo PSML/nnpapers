@@ -1,3 +1,4 @@
+#Trainable Memory Augmented Differentiable Machines
 ## Neural Turing Machines
 * [Neural Turing Machines](https://arxiv.org/abs/1410.5401)
 * [Adaptive Neural Compilation](https://arxiv.org/abs/1605.07969)
@@ -6,3 +7,4 @@
 * [Hierarchical Memory Networks](https://arxiv.org/abs/1605.07427)
 * [Learning to Transduce with Unbounded Memory: Stack Machine](https://arxiv.org/pdf/1506.02516v3.pdf)
 * [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)
+* [One-shot Learning with Memory-Augmented Neural Networks](https://arxiv.org/pdf/1605.06065.pdf)
