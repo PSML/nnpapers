@@ -2,6 +2,9 @@
 * [Going Deeper with Convolutions (GoogLeNet)](https://arxiv.org/abs/1409.4842)
 * [Very Deep Convolutional Networks for Large-Scale Image Recognition (VGG Net)](http://arxiv.org/abs/1409.1556)
 * [Artificial Cells as Reified Quines](https://mitpress.mit.edu/sites/default/files/titles/alife/0262297140chap130.pdf)
+* [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
+* [Alex Net: ImageNet Classification with Deep Convolutional Neural Networks](ImageNet Classification with Deep Convolutional
+Neural Networks)
 
 ## RNNs
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215)
