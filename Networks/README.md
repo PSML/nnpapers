@@ -5,6 +5,8 @@
 * [Wide Residual Networks](https://arxiv.org/abs/1605.07146)
 * [Alex Net: ImageNet Classification with Deep Convolutional Neural Networks](ImageNet Classification with Deep Convolutional
 Neural Networks)
+* [Project Adam: Building an Efficient and Scalable Deep Learning Training System](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-chilimbi.pdf)
+
 
 ## RNNs
 * [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/abs/1409.3215)
